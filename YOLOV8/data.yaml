@@ -1,9 +1,0 @@
-train: /content/drive/MyDrive/Yolo V8/Dataset/train
-val: /content/drive/MyDrive/Yolo V8/Dataset/valid
-test: /content/drive/MyDrive/Yolo V8/Dataset/test
-
-nc: 2
-names: 
-  0: Bike
-  1: Car
-
