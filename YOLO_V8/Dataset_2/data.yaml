@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['bike', 'car']
+
+roboflow:
+  workspace: punjab-engineering-college-l7yr9
+  project: car-bike-detection-etous
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/punjab-engineering-college-l7yr9/car-bike-detection-etous/dataset/1
